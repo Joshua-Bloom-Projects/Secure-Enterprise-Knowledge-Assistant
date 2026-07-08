@@ -1,0 +1,16 @@
+.env
+.venv/
+venv/
+__pycache__/
+*.py[cod]
+.DS_Store
+.streamlit/
+
+data/chroma_db/*
+!data/chroma_db/.gitkeep
+data/logs/*
+!data/logs/.gitkeep
+
+.pytest_cache/
+.mypy_cache/
+.ruff_cache/

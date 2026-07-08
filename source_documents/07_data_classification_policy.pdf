@@ -1,0 +1,95 @@
+%PDF-1.4
+%‚„œ”
+1 0 obj
+<< /Type /Catalog /Pages 2 0 R >>
+endobj
+2 0 obj
+<< /Type /Pages /Kids [4 0 R] /Count 1 >>
+endobj
+3 0 obj
+<< /Type /Font /Subtype /Type1 /BaseFont /Helvetica >>
+endobj
+4 0 obj
+<< /Type /Page /Parent 2 0 R /MediaBox [0 0 612 792] /Resources << /Font << /F1 3 0 R >> >> /Contents 5 0 R >>
+endobj
+5 0 obj
+<< /Length 1653 >>
+stream
+BT
+/F1 11 Tf
+50 750 Td
+14 TL
+(Northstar Operations Group - Data Classification Policy) Tj
+T*
+T*
+(# Data Classification Policy) Tj
+T*
+T*
+(1. Purpose) Tj
+T*
+(The Data Classification Policy defines how Northstar information must be labeled,) Tj
+T*
+(handled, shared, and protected.) Tj
+T*
+T*
+(2. Classification Levels) Tj
+T*
+(Public data is approved for external sharing. Internal data is intended for) Tj
+T*
+(Northstar employees and approved contractors. Confidential data includes business) Tj
+T*
+(plans, non-public financials, customer information, vendor contracts, and) Tj
+T*
+(security-sensitive operating details. Restricted data includes payroll, medical,) Tj
+T*
+(accommodation, credentials, secrets, regulated data, and highly sensitive) Tj
+T*
+(employee or customer records.) Tj
+T*
+T*
+(3. Public AI Tools) Tj
+T*
+(Employees may not upload confidential or restricted company data into public AI) Tj
+T*
+(tools, personal accounts, unapproved browser extensions, or unapproved SaaS) Tj
+T*
+(products. Public AI tools may be used only with public data or sanitized examples) Tj
+T*
+(that do not reveal company, customer, vendor, employee, credential, or security) Tj
+T*
+(information.) Tj
+T*
+T*
+(4. Minimum Necessary Access) Tj
+T*
+(Employees should access only the information needed for their role. Requests for) Tj
+T*
+(restricted data require business justification, manager approval, system owner) Tj
+T*
+(approval, and IT Security review.) Tj
+T*
+T*
+(5. Incident Reporting) Tj
+T*
+(Suspected exposure of confidential or restricted data must be reported to IT) Tj
+T*
+(Security immediately through the security incident process.) Tj
+T*
+T*
+(Page 1 of 1) Tj
+ET
+endstream
+endobj
+xref
+0 6
+0000000000 65535 f 
+0000000015 00000 n 
+0000000064 00000 n 
+0000000121 00000 n 
+0000000191 00000 n 
+0000000317 00000 n 
+trailer
+<< /Size 6 /Root 1 0 R >>
+startxref
+2021
+%%EOF

@@ -1,0 +1,92 @@
+%PDF-1.4
+%‚„œ”
+1 0 obj
+<< /Type /Catalog /Pages 2 0 R >>
+endobj
+2 0 obj
+<< /Type /Pages /Kids [4 0 R] /Count 1 >>
+endobj
+3 0 obj
+<< /Type /Font /Subtype /Type1 /BaseFont /Helvetica >>
+endobj
+4 0 obj
+<< /Type /Page /Parent 2 0 R /MediaBox [0 0 612 792] /Resources << /Font << /F1 3 0 R >> >> /Contents 5 0 R >>
+endobj
+5 0 obj
+<< /Length 1468 >>
+stream
+BT
+/F1 11 Tf
+50 750 Td
+14 TL
+(Northstar Operations Group - IT Access Request SOP) Tj
+T*
+T*
+(# IT Access Request SOP) Tj
+T*
+T*
+(1. Purpose) Tj
+T*
+(The IT Access Request SOP defines how employees request access to Northstar) Tj
+T*
+(systems.) Tj
+T*
+T*
+(2. Request Submission) Tj
+T*
+(Employees request system access through the IT service desk portal. Each request) Tj
+T*
+(must include the system name, business reason, requested role or permission) Tj
+T*
+(level, duration if temporary, and manager name.) Tj
+T*
+T*
+(3. Approval Requirements) Tj
+T*
+(Standard access requires manager approval and system owner approval. Privileged) Tj
+T*
+(access also requires IT Security review. Access to restricted data requires a) Tj
+T*
+(documented business need and may require additional HR, Legal, or Privacy review.) Tj
+T*
+T*
+(4. Fulfillment Timeline) Tj
+T*
+(Standard access requests are usually fulfilled within two business days after all) Tj
+T*
+(required approvals are received. Privileged or restricted access may take longer) Tj
+T*
+(because additional review is required.) Tj
+T*
+T*
+(5. Access Controls) Tj
+T*
+(Employees may not share accounts, passwords, tokens, MFA codes, or credentials.) Tj
+T*
+(Access must be assigned to named users and removed when no longer needed.) Tj
+T*
+T*
+(6. Escalation) Tj
+T*
+(Urgent access issues should be escalated through the IT service desk. Security) Tj
+T*
+(concerns should be reported to IT Security immediately.) Tj
+T*
+T*
+(Page 1 of 1) Tj
+ET
+endstream
+endobj
+xref
+0 6
+0000000000 65535 f 
+0000000015 00000 n 
+0000000064 00000 n 
+0000000121 00000 n 
+0000000191 00000 n 
+0000000317 00000 n 
+trailer
+<< /Size 6 /Root 1 0 R >>
+startxref
+1836
+%%EOF
